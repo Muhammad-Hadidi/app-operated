@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Muhammad-Hadidi/app-operated/blob/master/assets/minecraft.gif" width="200">
+<img align="right" src="https://github.com/Muhammad-Hadidi/app-operated/blob/master/assets/cow.gif" width="200">
 
 # App Operated
 
