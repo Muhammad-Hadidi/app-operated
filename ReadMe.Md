@@ -2,9 +2,9 @@
 
 # App Operated
 
-## Feature's
+## Feature's:
   * Easy to run (just make sure Java & node is installed, and run!)
   * Operated you'r minecraft server from discord.
 
-## Example
+## Example:
 ![Loading Example...](https://github.com/Muhammad-Hadidi/app-operated/blob/master/assets/example.gif)
